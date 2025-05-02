@@ -20,10 +20,12 @@ Load the dataset using pandas.
 Display the first few rows of the dataset using .head() to inspect the data.
 Explore the structure of the dataset by checking the data types and any missing values.
 Clean the dataset by either filling or dropping any missing values.
+
 Task 2: Basic Data Analysis
 Compute the basic statistics of the numerical columns (e.g., mean, median, standard deviation) using .describe().
 Perform groupings on a categorical column (for example, species, region, or department) and compute the mean of a numerical column for each group.
 Identify any patterns or interesting findings from your analysis.
+
 Task 3: Data Visualization
 Create at least four different types of visualizations:
 Line chart showing trends over time (for example, a time-series of sales data).
